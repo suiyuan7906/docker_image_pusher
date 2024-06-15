@@ -1,5 +1,5 @@
 xhofe/alist
 xiaoyaliu/alist
 gdy666/lucky
-portainer-ce
+portainer/portainer-ce
 hslr/sun-panel
